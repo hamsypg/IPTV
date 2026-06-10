@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:0,Stream
+https://stream-lb.livemediama.com/arryadia-tnt/hls/stream_0/playlist.m3u8
+#EXTINF:0,Stream
+https://stream-lb.livemediama.com/arryadia-tnt/hls/stream_1/playlist.m3u8
+#EXTINF:0,Stream
+https://stream-lb.livemediama.com/arryadia-tnt/hls/stream_2/playlist.m3u8
+#EXTINF:0,Stream
+https://stream-lb.livemediama.com/arryadia-tnt/hls/stream_3/playlist.m3u8
