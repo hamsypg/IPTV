@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlkassOne1080" tvg-name="Alkass One (1080p)",Alkass One (1080p)
+https://liveeu-gcp.alkassdigital.net/alkass1-p/20260609T164244Z/mux_video_1080p_ts/index-1.m3u8
+#EXTINF:-1 tvg-id="AlkassOne720" tvg-name="Alkass One (720p)",Alkass One (720p)
+https://liveeu-gcp.alkassdigital.net/alkass1-p/20260609T164244Z/mux_video_720p_ts/index-1.m3u8
+#EXTINF:-1 tvg-id="AlkassTwo1080" tvg-name="Alkass Two (1080p)",Alkass Two (1080p)
+https://liveeu-gcp.alkassdigital.net/alkass2-p/20260609T164505Z/mux_video_1080p_ts/index-1.m3u8
+#EXTINF:-1 tvg-id="AlkassTwo720" tvg-name="Alkass Two (720p)",Alkass Two (720p)
+https://liveeu-gcp.alkassdigital.net/alkass2-p/20260609T164505Z/mux_video_720p_ts/index-1.m3u8
+#EXTINF:-1 tvg-id="AlkassThree1080" tvg-name="Alkass Three (1080p)",Alkass Three (1080p)
+https://liveeu-gcp.alkassdigital.net/alkass3-p/20260609T164529Z/mux_video_1080p_ts/index-1.m3u8
+#EXTINF:-1 tvg-id="AlkassThree720" tvg-name="Alkass Three (720p)",Alkass Three (720p)
+https://liveeu-gcp.alkassdigital.net/alkass3-p/20260609T164529Z/mux_video_720p_ts/index-1.m3u8
+#EXTINF:-1 tvg-id="AlkassFour1080" tvg-name="Alkass Four (1080p)",Alkass Four (1080p)
+https://liveeu-gcp.alkassdigital.net/alkass4-p/20260609T164454Z/mux_video_1080p_ts/index-1.m3u8
+#EXTINF:-1 tvg-id="AlkassFour720" tvg-name="Alkass Four (720p)",Alkass Four (720p)
+https://liveeu-gcp.alkassdigital.net/alkass4-p/20260609T164454Z/mux_video_720p_ts/index-1.m3u8
+#EXTINF:-1 tvg-id="AlkassSHOOF1080" tvg-name="Alkass SHOOF (1080p)",Alkass SHOOF (1080p)
+https://liveeu-gcp.alkassdigital.net/shooflive/20260609T164633Z/mux_video_1080p_ts/index-1.m3u8
+#EXTINF:-1 tvg-id="AlkassSHOOF720" tvg-name="Alkass SHOOF (720p)",Alkass SHOOF (720p)
+https://liveeu-gcp.alkassdigital.net/shooflive/20260609T164633Z/mux_video_720p_ts/index-1.m3u8
+#EXTINF:-1 tvg-id="AlkassSix1080" tvg-name="Alkass Six (1080p)",Alkass Six (1080p)
+https://liveeu-gcp.alkassdigital.net/alkass6-p/20260609T164626Z/mux_video_1080p_ts/index-1.m3u8
+#EXTINF:-1 tvg-id="AlkassSix720" tvg-name="Alkass Six (720p)",Alkass Six (720p)
+https://liveeu-gcp.alkassdigital.net/alkass6-p/20260609T164626Z/mux_video_720p_ts/index-1.m3u8
